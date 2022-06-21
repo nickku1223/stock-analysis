@@ -44,4 +44,8 @@ With the result we got from both 2017 and 2018, we can see that "ENPH" and "RUN"
 
 #### 1. What are the advantages or disadvantages of refactoring code?
 
-The advantage is that it reduced the runtime. Disadvantages for me personally is that at first I was confused about the code by adding tickerIndex and using it to access the tickers array, and why to create the 3 out put as array, but I think 
+The advantage is that it reduced the runtime. Disadvantages for me personally is that at first I was confused about the code by adding tickerIndex and using it to access the tickers array, and why to create the 3 out put as array, but I think to create output as arrays helps to process and store the respective array elements, which helps with the runtime.
+
+#### 2. How do these pros and cons apply to refactoring the original VBA script?
+
+
