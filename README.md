@@ -27,7 +27,6 @@ With the results we get from the 2018 stocks analysis, we can see most of the st
 
 But we can also see **"ENPH"** still have **81.9%** of return, during 2017 - 2018 **"ENPH"** has total **211.4%** of return which made it the top performer out of all stocks. The other stock that has positive return for both years is **"RUN"**, in 2017, it has a small 5.5% of return, but in 2018 it gained momentum and has the highest return of **84%**.
 
-So, from the results of 2017 and 2018, we can see that "ENPH" and "RUN" could be good choices to invest.
 
 ### Runtime for original script and refactored script
 <sub>2017 Original Script Runtime</sub>
@@ -38,3 +37,11 @@ So, from the results of 2017 and 2018, we can see that "ENPH" and "RUN" could be
 ![2017 Refactored Script Runtime](VBA_Challenge_2017.png)
 <sub>2018 Refactored Script Runtime</sub>
 ![2018 Refactored Script Runtime](VBA_Challenge_2018.png)
+
+## Summary
+
+With the result we got from both 2017 and 2018, we can see that "ENPH" and "RUN" would be good choices to invest for long term during the 2 years period, the top performers such as "DQ", "SEDG" could good for short term but have to closely monitor the performance and set a target price and/or stop loss point.
+
+#### 1. What are the advantages or disadvantages of refactoring code?
+
+The advantage is that it reduced the runtime. Disadvantages for me personally is that at first I was confused about the code by adding tickerIndex and using it to access the tickers array, and why to create the 3 out put as array, but I think 
