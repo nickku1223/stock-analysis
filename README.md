@@ -1,11 +1,11 @@
 # Stocks Analysis with VBA
 
-##Project Overview
+## Project Overview
 
 The purpose of this project is to use VBA to create marco so the stakeholders can easily get the results for the stocks analysis of the year they desired.
 
 
-##Results
+## Results
 
 ![2017 Stocks Analysis Result](2017_Stocks_Analysis_results.png)
 
@@ -29,7 +29,7 @@ But we can also see **"ENPH"** still have **81.9%** of return, during 2017 - 201
 
 So, from the results of 2017 and 2018, we can see that "ENPH" and "RUN" could be good choices to invest.
 
-###Runtime for original script and refactored script
+### Runtime for original script and refactored script
 <sub>2017 Original Script Runtime</sub>
 ![2017 Original Script Runtime](2017_AllStocksAnalysis_Original_Script_runtime.png)
 <sub>2018 Original Script Runtime</sub>
