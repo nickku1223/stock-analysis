@@ -7,7 +7,7 @@ The purpose of this project is to use VBA to create marco so the stakeholders ca
 
 ##Results
 
-![2017 Stocks Analysis Result](2017_Stocks_Analysis_Results.png)
+![2017 Stocks Analysis Result](2017_Stocks_Analysis_results.png)
 
 From the results of the 2017 stocks analysis, we can see all of the stocks but "TERP" has positive returns, and the top 3 performers are 
 
@@ -17,7 +17,7 @@ From the results of the 2017 stocks analysis, we can see all of the stocks but "
 
 Overall, 2017 is a good year for most of the stocks we have listed.
 
-![2018 Stocks Analysis Result](2018_Stocks_Analysis_Results.png)
+![2018 Stocks Analysis Result](2018_Stocks_Analysis_results.png)
 
 With the results we get from the 2018 stocks analysis, we can see most of the stocks have the negative returns, the top 3 of the worst peformers are
 
@@ -32,5 +32,5 @@ So, from the results of 2017 and 2018, we can see that "ENPH" and "RUN" could be
 ###Runtime for original script and refactored script
 ![2017 Original Script Runtime](2017_AllStocksAnalysis_Original_Script_runtime.png)
 ![2018 Original Script Runtime](2018_AllStocksAnalysis_Original_Script_runtime.png)
-![2017 Refactored Script Runtime](2017_VBA_Challenge.png)
-![2018 Refactored Script Runtime](2018_VBA_Challenge.png)
+![2017 Refactored Script Runtime](VBA_Challenge_2017.png)
+![2018 Refactored Script Runtime](VBA_Challenge_2018.png)
