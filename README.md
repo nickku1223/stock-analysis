@@ -48,4 +48,7 @@ The advantage is that it reduced the runtime. Disadvantages for me personally is
 
 #### 2. How do these pros and cons apply to refactoring the original VBA script?
 
+The big difference between the two scripts is that settign output arrays, and using arrays has some advantages, such as it can reduced the runtime, all the array elements are stored in continuous memory location, and the code could be easy to maintain. (some of the benefits are the results of a google search,and [thi is the webpage](https://vbaf1.com/tutorial/arrays/advantages-of-an-array/#:~:text=Array%20Advantages%3A&text=All%20the%20array%20elements%20are,using%20array%20index%20or%20subscript.)
+
+Cons on the other hand, for me personally is that the code can seem rather complicated and less straight forward at first, but also forced me to really look into the code and figure out the relationship between elements, but also learned and explored a different, and more efficient way to complete the same work.
 
