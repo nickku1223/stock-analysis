@@ -25,8 +25,7 @@ With the results we get from the 2018 stocks analysis, we can see most of the st
 - "JKS" with -60.5% of return, 
 - "SPWR" with -44.6% of return. 
 
-But we can also see **"ENPH"** still have **81.9%** of return, during 2017 - 2018 **"ENPH"** has total **211.4%** of return which made it the top performer out of all stocks. The other stock that has positive return for both years is **"RUN"**, in 2017, it has a small 5.5% of return, but in 2018 it gained momentum and has the highest return of **84%**.
-
+But we can also see **"ENPH"** still has **81.9%** of return, during 2017 - 2018 **"ENPH"** has a total **211.4%** of return which made it the top performer out of all stocks. The other stock that has a positive return for both years is **"RUN"**, in 2017, it has a small 5.5% of return, but in 2018 it gained momentum and has the highest return of **84%**.
 
 ### Runtime for original script and refactored script
 <sub>2017 Original Script Runtime</sub>
@@ -40,15 +39,14 @@ But we can also see **"ENPH"** still have **81.9%** of return, during 2017 - 201
 
 ## Summary
 
-With the result we got from both 2017 and 2018, we can see that "ENPH" and "RUN" would be good choices to invest for long term during the 2 years period, the top performers such as "DQ", "SEDG" could good for short term but have to closely monitor the performance and set a target price and/or stop loss point.
+With the result we got from both 2017 and 2018, we can see that "ENPH" and "RUN" would be good choices to invest in for the long term during the 2 years, the top performers such as "DQ", "SEDG" could be good for a short term but have to closely monitor the performance and set a target price and/or stop loss point.
 
 #### 1. What are the advantages or disadvantages of refactoring code?
 
-The advantage is that it reduced the runtime. Disadvantages for me personally is that at first I was confused about the code by adding tickerIndex and using it to access the tickers array, and why to create the 3 out put as array, but I think to create output as arrays helps to process and store the respective array elements, which helps with the runtime.
+The advantage is that it reduced the runtime. The disadvantage for me personally is that at first I was confused about the code by adding tickerIndex and using it to access the tickers array, and why to create the 3 out put as an array, but I think creating output as arrays helps to process and store the respective array elements, which helps with the runtime.
 
 #### 2. How do these pros and cons apply to refactoring the original VBA script?
 
-The big difference between the two scripts is that settign output arrays, and using arrays has some advantages, such as it can reduced the runtime, all the array elements are stored in continuous memory location, and the code could be easy to maintain. (some of the benefits are the results of a google search,and [this is the webpage](https://vbaf1.com/tutorial/arrays/advantages-of-an-array/#:~:text=Array%20Advantages%3A&text=All%20the%20array%20elements%20are,using%20array%20index%20or%20subscript.)
+The big difference between the two scripts is that setting output arrays, and using arrays have some advantages, such as it can reduce the runtime, all the array elements being stored in the continuous memory location, and the code could be easy to maintain. (some of the benefits are the results of a google search,and [this is the webpage](https://vbaf1.com/tutorial/arrays/advantages-of-an-array/#:~:text=Array%20Advantages%3A&text=All%20the%20array%20elements%20are,using%20array%20index%20or%20subscript.)
 
-Cons on the other hand, for me personally is that the code can seem rather complicated and less straight forward at first, but also forced me to really look into the code and figure out the relationship between elements, but also learned and explored a different, and more efficient way to complete the same work.
-
+Cons on the other hand, for me is that the code can seem rather complicated and less straightforward at first, but also forced me to look into the code and figure out the relationship between elements, but also learned and explored a different, and more efficient way to complete the same work.
